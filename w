@@ -28,4 +28,3 @@ public class Factorial {
 		return r;
 	}
 }
-dw
